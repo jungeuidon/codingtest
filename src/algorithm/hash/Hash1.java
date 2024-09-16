@@ -1,10 +1,9 @@
 package algorithm.hash;
 
-import java.util.Arrays;
 import java.util.HashSet;
-import java.util.stream.Collectors;
 
-// 프로그래머스 해시 문제
+// 프로그래머스
+// 해시
 // 폰켓몬
 // https://school.programmers.co.kr/learn/courses/30/lessons/1845
 public class Hash1 {
