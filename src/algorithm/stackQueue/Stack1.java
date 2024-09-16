@@ -30,4 +30,21 @@ public class Stack1 {
 
             return answer;
         }
+
+        // 문제를 보면 0보다 크고 9보다 작다는 글이 있다. 이를 잘 파악하여 Stack을 사용하지 않고 풀었다.
+//        public int[] solution(int []arr) {
+//            ArrayList<Integer> tempList = new ArrayList<Integer>();
+//            int preNum = 10;
+//            for(int num : arr) {
+//                if(preNum != num)
+//                    tempList.add(num);
+//                preNum = num;
+//            }
+//            int[] answer = new int[tempList.size()];
+//            for(int i=0; i<answer.length; i++) {
+//                answer[i] = tempList.get(i).intValue();
+//            }
+//            return answer;
+//        }
+
 }
