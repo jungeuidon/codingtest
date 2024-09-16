@@ -4,7 +4,7 @@
 
 ## 목록
 
-### 1. 해시 : Key-value쌍으로 데이터를 빠르게 찾아보세요.
+### 1. [해시](https://github.com/jungeuidon/codingtest/tree/main/src/algorithm/hash) : Key-value쌍으로 데이터를 빠르게 찾아보세요.
 ### 2. 스택/큐 : LIFO, FIFO, push & pop! 스택과 큐를 이용해서 문제를 풀어보세요.
 ### 3. 힙(Heap) : 힙은 특정한 규칙을 가지는 트리로, 힙을 이용해서 우선순위 큐를 구현할 수 있습니다.
 ### 4. 정렬 : 정렬을 이용해서 문제를 효율적으로 풀어보세요.
